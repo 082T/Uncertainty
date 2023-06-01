@@ -1,5 +1,5 @@
 # Uncertainty
 
 ModelCloner - done  
-SetupData - to be tested  
+SetupData - done  
 visualizer - WIP
